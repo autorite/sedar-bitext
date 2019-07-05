@@ -34,9 +34,13 @@ Please cite the following paper when using our corpus:
  or arxiv citation
 ```
 
+## Contact
+For more information, contact #TODO
+
 ### TODO List
 
 - [ ] Set the correct publication venue and citation
 - [ ] Add license to the corpus and description
 - [ ] Manage the data request procedure and update **Request Data**
+- [ ] Change contact info
 - [ ] Misspelling and grammar error final check
