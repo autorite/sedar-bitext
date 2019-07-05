@@ -43,4 +43,5 @@ For more information, contact #TODO
 - [ ] Add license to the corpus and description
 - [ ] Manage the data request procedure and update **Request Data**
 - [ ] Change contact info
+- [ ] Translate
 - [ ] Misspelling and grammar error final check
