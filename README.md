@@ -1,5 +1,3 @@
-**EN CONSTRUCTION / UNDER CONSTRUCTION**
-
 For English, please see below
 
 ==================================================================
@@ -8,7 +6,7 @@ For English, please see below
 
 ==================================================================
 
-Ce référentiel contient des informations sur le corpus "bitext" de SEDAR. Plus d'informations sur ce dernier sont disponibles sur la publication scientifique ([lien (en anglais)](http://link_to_paper))
+Ce référentiel contient des informations sur le corpus "bitext" de SEDAR. Plus d'informations sur ce dernier sont disponibles sur la publication scientifique ([lien (en anglais)](https://www.aclweb.org/anthology/2020.lrec-1.442.pdf))
 
     Abbas Ghaddar and Philippe Langlais 
     SEDAR: Large Scale French-English Financial Domain Parallel Corpus
@@ -32,19 +30,25 @@ Pour un aperçu du contenu des données, merci de voir les "notebooks" de démon
 Merci de citer le papier suivant lors de l'utilisation du corpus: 
 
 ```
-@InProceedings{ghaddar2020sedar,
-  title={SEDAR: Large Scale French-English Financial Domain Parallel Corpus},
-  author={Ghaddar, Abbas	and Langlais, Phillippe},
-  booktitle = {{LREC} 2020, 12th International Conference on Language Resources and Evaluation},
-  pages     = {},
-  year      = {2020}
+@inproceedings{ghaddar-langlais-2020-sedar,
+    title = "{SEDAR}: a Large Scale {F}rench-{E}nglish Financial Domain Parallel Corpus",
+    author = "Ghaddar, Abbas  and
+      Langlais, Phillippe",
+    booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.442",
+    pages = "3595--3602",
+    language = "English",
 }
  or arxiv citation
 ```
 
 ## Contacts
 
-Pour plus d'informations, merci de contacter #TODO
+Pour plus d'informations, merci de contacter fintech@lautorite.qc.ca
 
 
 
@@ -54,7 +58,7 @@ Pour plus d'informations, merci de contacter #TODO
 
 ==================================================================
 
-This repository contains information on the release of SEDAR bitext cropus, which is presented in the following research publication ([link](http://link_to_paper))
+This repository contains information on the release of SEDAR bitext cropus, which is presented in the following research publication ([link](https://www.aclweb.org/anthology/2020.lrec-1.442.pdf))
 
     Abbas Ghaddar and Philippe Langlais 
     SEDAR: Large Scale French-English Financial Domain Parallel Corpus
@@ -77,22 +81,22 @@ For an overview of the content of SEDAR and how files are structured see [this](
 Please cite the following paper when using our corpus: 
 
 ```
-@InProceedings{ghaddar2020sedar,
-  title={SEDAR: Large Scale French-English Financial Domain Parallel Corpus},
-  author={Ghaddar, Abbas	and Langlais, Phillippe},
-  booktitle = {{LREC} 2020, 12th International Conference on Language Resources and Evaluation},
-  pages     = {},
-  year      = {2020}
+@inproceedings{ghaddar-langlais-2020-sedar,
+    title = "{SEDAR}: a Large Scale {F}rench-{E}nglish Financial Domain Parallel Corpus",
+    author = "Ghaddar, Abbas  and
+      Langlais, Phillippe",
+    booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.442",
+    pages = "3595--3602",
+    language = "English",
 }
  or arxiv citation
 ```
 
 ## Contact
-For more information, contact #TODO
+For more information, contact fintech@lautorite.qc.ca
 
-### TODO List
-
-- [ ] Set the correct publication venue and citation
-- [ ] Add license to the corpus and description
-- [ ] Manage the data request procedure and update **Request Data**
-- [ ] Change contact info
